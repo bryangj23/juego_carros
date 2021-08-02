@@ -1,3 +1,7 @@
+##########     El archivo principal es mijuego.py       #############################
+
+
+
 # juego_carros
 CHALLENGE - JUEGO DE CARROS POR CONSOLA
 
@@ -16,6 +20,8 @@ Dentro del reto se debe considerar lo siguiente:
 ● Conocimiento de cualquier lenguaje de programación.
 ● Manejo de Git (versión de control)
 Solo aplicate al reto si te sientes capaz de hacerlo.
+
+
 ¡Buena suerte!
 Use Case/Problem
 Lo que se busca en este juego es crear unos carros y posicionarlo en una pista (cada
